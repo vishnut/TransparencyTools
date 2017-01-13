@@ -18,4 +18,4 @@ python file_name image_name
 
 For example, running "python tblack.py text.png" will save an image called 2text.png.
 
-For more details, view vishnut.me/text-transparency.
+For more details, view [my blog post](http://vishnut.me/text-transparency).
