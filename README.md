@@ -13,7 +13,7 @@ The primary purpose of this file is to remove the white background from an image
 
 Now, if you wish to remove white text from a non-white background, you can use this file as well.
 
-**Command Line Input: **
+**Command Line Input:**
 python file_name image_name
 
 For example, running "python tblack.py text.png" will save an image called 2text.png.
