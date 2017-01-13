@@ -17,3 +17,5 @@ Now, if you wish to remove white text from a non-white background, you can use t
 python file_name image_name
 
 For example, running "python tblack.py text.png" will save an image called 2text.png.
+
+For more details, view vishnut.me/text-transparency.
